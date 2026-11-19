@@ -6,10 +6,12 @@
 
 > 🚀 **The definitive curated directory of SaaS Cloud IDEs, AI-Native Code Editors, Modal Terminal Workspaces, and High-Performance Open-Source Editor Engines.**
 
+<a href="https://iithub.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?styee=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Editors-IDE-Development?style=social)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Last updated:** November 2026
 
@@ -23,6 +25,8 @@ Welcome to **Awesome-Text-Editors-IDE-Development** — an authoritative guide t
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🎯 Selection & Evaluation Criteria](#-selection--evaluation-criteria)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
@@ -105,6 +109,24 @@ When selecting an editor or cloud workspace platform, engineering teams typicall
    - Platforms like GitHub Codespaces, Coder, DevPod, and Daytona eliminate "works on my machine" bottlenecks by packaging dependencies in standardized OCI containers (`devcontainer.json`) provisioned on remote compute.
 4. **Data Privacy & Telemetry Freedom** 🔒
    - Projects such as VSCodium, Void, Neovim, and Continue allow development in air-gapped environments or connect exclusively to self-hosted Ollama / vLLM endpoints without third-party telemetry.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using this curated ecosystem guide! If you found this repository helpful for evaluating text editors, IDEs, or cloud development environments, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with fellow software engineers, platform architects, and tooling teams.
+- ☕ **Buy a coffee & sponsor**: You can support ongoing maintenance, research, and new curated additions directly through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Text-Editors-IDE-Development&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Text-Editors-IDE-Development&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Text-Editors-IDE-Development&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Text-Editors-IDE-Development&type=date&legend=top-left)
 
 ---
 
