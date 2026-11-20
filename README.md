@@ -7,7 +7,7 @@
 > 🚀 **The definitive curated directory of SaaS Cloud IDEs, AI-Native Code Editors, Modal Terminal Workspaces, and High-Performance Open-Source Editor Engines.**
 
 <a href="https://iithub.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?styee=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Editors-IDE-Development?style=social)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-Editors-IDE-Development?style=social)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Text-Editors-IDE-Development)
@@ -62,7 +62,7 @@ The following table benchmarks category-leading commercial text editors and clou
 
 ## 💻 Open-Source GitHub Projects
 
-The following table catalogs premier open-source text editors, terminal workspaces, cloud IDE servers, and extensible AI agent harnesses. Entries are sorted in descending order by **GitHub Star Count**.
+The following table catalogs premier open-source text editors, terminal workspaces, cloud IDE servers, and extensible AI agent harnesses. Entries are sorted in descending order by **GitHub Stars_Count**.
 
 | 📦 Repository & Project | ⭐ Popularity (Stars) | 📝 Language & Architecture | 🛠️ Core Description & Use Cases |
 | :--- | :--- | :--- | :--- |
@@ -138,7 +138,7 @@ We actively welcome contributions to expand this directory! To propose a new Saa
 2. 🌿 Create a feature branch: `git checkout -b feat/add-new-editor`.
 3. ✏️ Update [`README.md`](README.md) following the existing tabular structure, ensuring:
    - For SaaS products: accurate pricing, specific non-generic free tier limits, and valuation/scale.
-   - For Open-Source projects: valid GitHub repo link, social star badge linked to stargazers, and verified descriptions.
+   - For Open-Source projects: valid GitHub repo link, social Stars_Badge linked to stargazers, and verified descriptions.
 4. 💾 Commit your changes: `git commit -m "feat: add <Project-Name>"`
 5. 🚀 Push and submit a **Pull Request**.
 
