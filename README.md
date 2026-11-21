@@ -62,7 +62,7 @@ The following table benchmarks category-leading commercial text editors and clou
 
 ## 💻 Open-Source GitHub Projects
 
-The following table catalogs premier open-source text editors, terminal workspaces, cloud IDE servers, and extensible AI agent harnesses. Entries are sorted in descending order by **GitHub Stars_Count**.
+The following table catalogs premier open-source text editors, terminal workspaces, cloud IDE servers, and extensible AI agent harnesses. Entries are sorted in descending order by **GitHub_Stars_Count**.
 
 | 📦 Repository & Project | ⭐ Popularity (Stars) | 📝 Language & Architecture | 🛠️ Core Description & Use Cases |
 | :--- | :--- | :--- | :--- |
